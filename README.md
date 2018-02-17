@@ -39,7 +39,7 @@ Ingredients
 1.  Arduino Due and its softwares
 2.  A Linux based PC 
 3.  Python(2.7), Numpy, Matplotlib and pySerial
-4.  and of curse, A Black Box, to experiment with, 
+4.  and of course, A Black Box, to experiment with, 
 5.  and necessary hardwares to protect your Black Box and Arduino against over voltage and over loads.
 
 __Take number 5 seriously__, if now, you may damage your Arduino or your brand new Hi-Fi.
